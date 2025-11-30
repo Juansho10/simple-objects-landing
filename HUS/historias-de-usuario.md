@@ -21,3 +21,8 @@ HU4 — Ver detalles técnicos
 Como comprador técnico
 Quiero ver materiales, tamaños y colores disponibles
 Para evaluar si los productos cumplen mis requerimientos.
+
+HU5 — Mensaje de interacción básica
+Como usuario navegando la página
+Quiero interactuar con un botón que muestre un mensaje
+Para validar que la página tiene funcionalidad implementada en JavaScript.
